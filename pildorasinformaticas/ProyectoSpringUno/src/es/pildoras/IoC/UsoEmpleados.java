@@ -20,6 +20,7 @@ public class UsoEmpleados
 		
 		System.out.println(Juan.getTareas());
 		
+		System.out.println(Juan.getInforme());
 		contexto.close();
 	}
 

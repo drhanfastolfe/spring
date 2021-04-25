@@ -9,4 +9,10 @@ public class SecretarioEmpleado implements Empleados
 		return "Gestionar la agenda de los Jefes";
 	}
 
+	@Override
+	public String getInforme() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
